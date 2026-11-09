@@ -1,0 +1,6 @@
+{
+  "name": "GrotBot Studio - SVG Bot Maker",
+  "description": "Interactive procedural dynamic SVG bot character studio inspired by Charcoal and Grotbot, featuring eye tracking, emotive expressions, and developer export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
